@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  Ei! Você aqui, que bom! <br> 😄 Eu me chamo John, o que gosta <strong> de solucionar problemas</strong>! <br> Eu sou <strong>Estudante de ciencia de dados</strong> quero atuar como cientista de dados, atualmente sou universitário<strong> Arquivologia </strong>.<br />
+  Ei! Você aqui, que bom! <br> 😄 Eu me chamo John, o que gosta <strong> de solucionar problemas</strong>! <br> Eu sou <strong> estudante de ciência de dados</strong> e quero atuar como cientista de dados, atualmente sou universitário de <strong> Arquivologia </strong>.<br />
 <strong> Estou começando na área </strong> e pretendo seguir essa carreira, <strong> eu nunca desistirei </strong> dos <strong> meus sonho! </strong> 
 </p>
 
