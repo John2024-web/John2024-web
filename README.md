@@ -12,7 +12,7 @@
 
 <p align="center">
   Ei! Você aqui, que bom! <br> 😄 Eu me chamo John, o que gosta <strong> de solucionar problemas</strong>! <br> Eu sou <strong> estudante de ciência de dados</strong> e quero atuar como cientista de dados, atualmente sou universitário de <strong> Arquivologia </strong>.<br />
-<strong> Estou começando na área </strong> e pretendo seguir essa carreira, <strong> eu nunca desistirei </strong> dos <strong> meus sonho! </strong> 
+<strong> Estou começando na área </strong> e pretendo seguir essa carreira, <strong> eu nunca desistirei </strong> dos <strong> meus sonhos! </strong> 
 </p>
 
 <p align="center">
@@ -42,11 +42,15 @@
 
 ## 💻 Tecnologias e ferramentas
 
+## Ciência de dados
+
 <p align="center">
   
- <img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=python&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/SQL%20-%23007ACC.svg?&style=for-the-badge&logo=SQL&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/Big Data%20-%23563D7C.svg?&style=for-the-badge&logo=BigData&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=python&logoColor=yellow" height="25"/>
+ <img src="https://img.shields.io/badge/PANDAS%20-%23007ACC.svg?&style=for-the-badge&logo=PANDAS&logoColor=blue" height="25"/> 
+ <img src="https://img.shields.io/badge/NUMPY%20-%23563D7C.svg?&style=for-the-badge&logo=NUMPY&logoColor=light purple" height="25"/>
+   <img src="https://img.shields.io/badge/PLOTLY%20-%23563D7C.svg?&style=for-the-badge&logo=PLOTLY&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/SCIKIT LEARN%20-%23563D7C.svg?&style=for-the-badge&logo=SCIKIT LEARN&logoColor=white" height="25"/>
 
 </p>
 
