@@ -46,13 +46,54 @@
 
 <p align="center">
   
- <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-badge&logo=PYTHON&logoColor=blue" height="25"/>
- <img src="https://img.shields.io/badge/PANDAS%20-%23007ACC.svg?&style=for-the-badge&logo=PANDAS&logoColor=dark blue" height="25"/> 
- <img src="https://img.shields.io/badge/NUMPY%20-%23563D7C.svg?&style=for-the-badge&logo=NUMPY&logoColor=lightpurple" height="25"/>
-   <img src="https://img.shields.io/badge/PLOTLY%20-%23563D7C.svg?&style=for-the-badge&logo=PLOTLY&logoColor=green" height="25"/>
-   <img src="https://img.shields.io/badge/SCIKIT LEARN%20-%23563D7C.svg?&style=for-the-badge&logo=SCIKIT LEARN&logoColor=orange" height="25"/>
+ <img src="https://img.shields.io/badge/python-FFFF00?style=for-the-badge&logo=python&logoColor=ffdd54)" height="25"/>
+ <img src="https://img.shields.io/badge/PANDAS-000080?style=for-the-badge&logo=PANDAS&logoColor=WHITE" height="25"/> 
+ <img src="https://img.shields.io/badge/NUMPY-A020F0?style=for-the-badge&logo=NUMPY&logoColor=WHITE" height="25"/>
+   <img src="https://img.shields.io/badge/PLOTLY-32CD32?style=for-the-badge&logo=PLOTLY&logoColor=WHITE" height="25"/>
+   <img src="https://img.shields.io/badge/SCIKIT%20LEARN-D2691E?style=for-the-badge&logo=SCIKIT%20LEARN&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/big%20data-FFDEAD?style=for-the-badge&logo=big%20data&logoColor=white" height="25"/>
 
+  
 </p>
+
+## Banco de dados
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/mysql-32CD32?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/sqlserver-FFFFF0?style=for-the-badge&logo=sqlserver&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/sqlite-E9967A?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+  
+  
+  </p>
+  
+## Frameworks
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/conda-4F4F4F?style=for-the-badge&logo=conda&logoColor=white" height="25"/>
+     <img src="https://img.shields.io/badge/jupyter-D2691E?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/powerbi-FFFF00?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
+  <img src="  https://img.shields.io/badge/tableau-4169E1?style=for-the-badge&logo=tableau&logoColor=white" height="25"/>
+  
+  
+</p>
+
+## IDE's
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/COLAB-696969?style=for-the-badge&logo=COLAB&logoColor=WHILE" height="25"/>
+     <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-6959CD?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=WHILE" height="25"/>
+  <img src="https://img.shields.io/badge/powerbi-FFFF00?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PYCHARM-DAA520?style=for-the-badge&logo=PYCHARM&logoColor=BLACK" height="25"/>
+  
+  
+</p>
+https://img.shields.io/badge/COLAB-696969?style=for-the-badge&logo=COLAB&logoColor=WHILE
+  
+  
+  
 
 ## ⭐ GitHub Estatísticas
 
