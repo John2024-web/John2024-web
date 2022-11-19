@@ -47,10 +47,10 @@
 <p align="center">
   
  <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=python&logoColor=blue" height="25"/>
- <img src="https://img.shields.io/badge/PANDAS%20-%23007ACC.svg?&style=for-the-badge&logo=PANDAS&logoColor=blue" height="25"/> 
+ <img src="https://img.shields.io/badge/PANDAS%20-%23007ACC.svg?&style=for-the-badge&logo=PANDAS&logoColor=dark blue" height="25"/> 
  <img src="https://img.shields.io/badge/NUMPY%20-%23563D7C.svg?&style=for-the-badge&logo=NUMPY&logoColor=light purple" height="25"/>
-   <img src="https://img.shields.io/badge/PLOTLY%20-%23563D7C.svg?&style=for-the-badge&logo=PLOTLY&logoColor=white" height="25"/>
-   <img src="https://img.shields.io/badge/SCIKIT LEARN%20-%23563D7C.svg?&style=for-the-badge&logo=SCIKIT LEARN&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/PLOTLY%20-%23563D7C.svg?&style=for-the-badge&logo=PLOTLY&logoColor=green" height="25"/>
+   <img src="https://img.shields.io/badge/SCIKIT LEARN%20-%23563D7C.svg?&style=for-the-badge&logo=SCIKIT LEARN&logoColor=orange" height="25"/>
 
 </p>
 
