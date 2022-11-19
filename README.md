@@ -61,7 +61,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/mysql-32CD32?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/sqlserver-FFFFF0?style=for-the-badge&logo=sqlserver&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/sqlserver-BC8F8F?style=for-the-badge&logo=sqlserver&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/sqlite-E9967A?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
   
   
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/conda-4F4F4F?style=for-the-badge&logo=conda&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ANACONDA-ADFF2F?style=for-the-badge&logo=ANACONDA&logoColor=BLACK" height="25"/>
      <img src="https://img.shields.io/badge/jupyter-D2691E?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/powerbi-FFFF00?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
   <img src="  https://img.shields.io/badge/tableau-4169E1?style=for-the-badge&logo=tableau&logoColor=white" height="25"/>
@@ -83,15 +83,13 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/COLAB-696969?style=for-the-badge&logo=COLAB&logoColor=WHILE" height="25"/>
+  <img src="https://img.shields.io/badge/GOOGLE%20COLAB-808080?style=for-the-badge&logo=GOOGLE%20COLAB&logoColor=BLACK" height="25"/>
      <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-6959CD?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=WHILE" height="25"/>
-  <img src="https://img.shields.io/badge/powerbi-FFFF00?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PYCHARM-DAA520?style=for-the-badge&logo=PYCHARM&logoColor=BLACK" height="25"/>
   
   
 </p>
-https://img.shields.io/badge/COLAB-696969?style=for-the-badge&logo=COLAB&logoColor=WHILE
-  
+
   
   
 
